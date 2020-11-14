@@ -1,0 +1,16 @@
+C:\Users\alber\source\repos\httpm\prueba\bin\Debug\netcoreapp3.1\prueba.exe
+C:\Users\alber\source\repos\httpm\prueba\bin\Debug\netcoreapp3.1\prueba.deps.json
+C:\Users\alber\source\repos\httpm\prueba\bin\Debug\netcoreapp3.1\prueba.runtimeconfig.json
+C:\Users\alber\source\repos\httpm\prueba\bin\Debug\netcoreapp3.1\prueba.runtimeconfig.dev.json
+C:\Users\alber\source\repos\httpm\prueba\bin\Debug\netcoreapp3.1\prueba.dll
+C:\Users\alber\source\repos\httpm\prueba\bin\Debug\netcoreapp3.1\prueba.pdb
+C:\Users\alber\source\repos\httpm\prueba\bin\Debug\netcoreapp3.1\httpm.dll
+C:\Users\alber\source\repos\httpm\prueba\bin\Debug\netcoreapp3.1\httpm.pdb
+C:\Users\alber\source\repos\httpm\prueba\obj\Debug\netcoreapp3.1\prueba.csprojAssemblyReference.cache
+C:\Users\alber\source\repos\httpm\prueba\obj\Debug\netcoreapp3.1\prueba.AssemblyInfoInputs.cache
+C:\Users\alber\source\repos\httpm\prueba\obj\Debug\netcoreapp3.1\prueba.AssemblyInfo.cs
+C:\Users\alber\source\repos\httpm\prueba\obj\Debug\netcoreapp3.1\prueba.csproj.CoreCompileInputs.cache
+C:\Users\alber\source\repos\httpm\prueba\obj\Debug\netcoreapp3.1\prueba.csproj.CopyComplete
+C:\Users\alber\source\repos\httpm\prueba\obj\Debug\netcoreapp3.1\prueba.dll
+C:\Users\alber\source\repos\httpm\prueba\obj\Debug\netcoreapp3.1\prueba.pdb
+C:\Users\alber\source\repos\httpm\prueba\obj\Debug\netcoreapp3.1\prueba.genruntimeconfig.cache

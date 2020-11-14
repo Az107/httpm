@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "prueba/1.0.0": {
+        "dependencies": {
+          "httpm": "1.0.0"
+        },
+        "runtime": {
+          "prueba.dll": {}
+        }
+      },
+      "httpm/1.0.0": {
+        "runtime": {
+          "httpm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "prueba/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "httpm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
