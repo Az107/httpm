@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "XnjPfH4rYQKON6F7WsIMeIFwHwcA/TokdttzeS6o4J6PUWSxmkpIIB5OPR0Weaa1M96YErDrHXMt0TQLPaBvAg==",
+  "dgSpecHash": "drUJcbj+fGrUTDcsl9t7E0oiLAshDPGc7aJnI6bjMH23SNrAO7adQKsOUX9ZbziggEx555BrDb7bUe4swPq/ow==",
   "success": true,
   "projectFilePath": "C:\\Users\\alber\\source\\repos\\httpm\\Httpm\\httpm.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\alber\\.nuget\\packages\\markdownsharp\\2.0.5\\markdownsharp.2.0.5.nupkg.sha512",
+    "C:\\Users\\alber\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\alber\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\alber\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\alber\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\alber\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\alber\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }

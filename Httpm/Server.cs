@@ -4,6 +4,8 @@ using System.Net.Sockets;
 using System.Net;
 using System.Threading.Tasks;
 using System.Threading;
+using System.IO;
+using MarkdownSharp;
 
 namespace Httpm
 {
@@ -15,6 +17,8 @@ namespace Httpm
         private CancellationTokenSource ct = new CancellationTokenSource();
         //public IPAddress iP {get; private set;}
         //private IAsyncResult result;
+        public String Header = "<link rel=\"stylesheet\" href=\"https://cdn.rawgit.com/Chalarangelo/mini.css/v3.0.1/dist/mini-default.min.css\">\n";
+
 
         public void Start(){
 
@@ -39,7 +43,10 @@ namespace Httpm
             HttpListenerRequest request = context.Request;
             HttpListenerResponse response = context.Response;
             StreamHandler streamHandler = new StreamHandler(response.OutputStream);
-            string responseString = "<HTML><BODY> Hello world!</BODY></HTML>";
+            string responseString =  Header + File.ReadAllText("index.md");
+            
+            Markdown markdown = new Markdown();
+            responseString = markdown.Transform(responseString);
             byte[] buffer = System.Text.Encoding.UTF8.GetBytes(responseString);
             response.ContentLength64 = buffer.Length;
             System.IO.Stream output = response.OutputStream;
